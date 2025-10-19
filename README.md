@@ -7,6 +7,7 @@ It demonstrates different techniques to interpret ML models using the FIFA 2018 
 
 ## 📂 Project Structure
 
+```
 ├── data/
 │ └── FIFA 2018 Statistics.csv
 │
@@ -14,6 +15,7 @@ It demonstrates different techniques to interpret ML models using the FIFA 2018 
 ├── partial_plots.ipynb
 ├── SHAP_values.ipynb
 └── Advanced_SHAP.ipynb
+```
 
 ---
 
@@ -41,7 +43,7 @@ It demonstrates different techniques to interpret ML models using the FIFA 2018 
 ---
 
 ## ⚽ Dataset
-**FIFA 2018 Statistics.csv**  
+**[FIFA 2018 Match Statistics](https://www.kaggle.com/datasets/mathan/fifa-2018-match-statistics)**  
 Contains match-level features (e.g., goals, attempts, possession, fouls).  
 Target: whether a player from the team won *"Man of the Match"* (`Yes`/`No`).
 
